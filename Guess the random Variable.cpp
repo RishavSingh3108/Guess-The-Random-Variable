@@ -15,7 +15,7 @@ int main(){
 		
 		if(playerInput == randNumber){
 			
-			cout<<"\n Congrats!!. Tou have successfully guessed tyhe right number."<<endl;
+			cout<<"\n Congrats!!. You have successfully guessed tyhe right number."<<endl;
 			cout<<"\n Thanks for playing. Have a Nice Day."<<endl;
 			break;
 		}
